@@ -1,1 +1,1 @@
-INSERT INTO users (id, name, age) VALUES (1, Annie, 25), (2, Dan, 30), (3, Gracie, 25), (4, Theresa, 29), (5, Pete, 64), (6, Adam, 25), (7, Christopher, 65), (8, Gretchan, 65), 
+INSERT INTO users (id, name, age) VALUES (1, Annie, 25), (2, Dan, 30), (3, Gracie, 25), (4, Theresa, 29), (5, Pete, 64), (6, Adam, 25), (7, Christopher, 65), (8, Gretchen, 65), (9, Stacy, 32), (10, Dave, 29), (11, Mel, 30), (12, Arian, 34), (13, Alex, 34), (14, )
