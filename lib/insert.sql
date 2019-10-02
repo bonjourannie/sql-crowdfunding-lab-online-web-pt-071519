@@ -12,3 +12,5 @@ INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) V
 (9, 'out of ideas', 'dunno', 4, 'tomorrow', 'yesterday'), 
 (10, 'walking', 'exercise', 73, 'monday', 'friday')
 ;
+
+INSERT INTO pledges
