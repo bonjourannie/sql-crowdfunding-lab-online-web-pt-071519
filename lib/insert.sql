@@ -13,4 +13,6 @@ INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) V
 (10, 'walking', 'exercise', 73, 'monday', 'friday')
 ;
 
-INSERT INTO pledges
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES
+(1, )
+;
